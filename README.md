@@ -1,6 +1,6 @@
 ## Traffic Sign Recognition
 
-Computer vision system for **real-time detection and recognition of traffic signs** using deep learning. The model identifies traffic signs from images, video, or webcam input using an object detection model trained on a custom dataset.
+Computer vision system for **real-time detection and recognition of the Stop sign** using deep learning. The model identifies traffic signs from images, video, or webcam input using an object detection model trained on a custom dataset.
 
 ---
 
